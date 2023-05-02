@@ -1,0 +1,16 @@
+{
+    "name": "zstronics/zstronics",
+    "autoload": {
+        "psr-4": {
+            "Uddhav\\Itcompany\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zstronics"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
