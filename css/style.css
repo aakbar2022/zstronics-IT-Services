@@ -1107,7 +1107,7 @@ body {
 }
 
 .faq {
-    min-height: 45vh;
+    min-height: 60vh;
     width: 100vw;
     text-align: center;
     padding: 0 2rem;
@@ -1251,7 +1251,7 @@ body {
     }
 
     .about {
-        min-height: 38vh;
+        min-height: 32vh;
         width: 100vw;
         margin-top: -3rem;
         margin-bottom: -2rem;
@@ -1445,7 +1445,7 @@ body {
 
     .faq {
         padding: 0;
-        min-height: 60vh;
+        min-height: 40vh;
     }
 
     .faq .row {
